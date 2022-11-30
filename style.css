@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo img{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 10px;
+
+}
+.title p{
+    background-color:#FFD700;
+    box-shadow: 2px 2px 2px #FFA500 inset;
+    text-align: center;
+    margin-top: 5px;
+    margin: auto;
+    color: 	#1E90FF;
+}
+.title p span{
+color:#0000FF;}
+
+.prima-p h1{
+    text-align: center;
+    margin-top: 5px;
+    padding: 5px;
+}
+.prima-p p{
+    text-align: center;
+    margin-top: 15px;
+    padding: 10px;
+}
+.img{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;   
+}
+.bg{
+    box-shadow:2px 1px 1px 1px rgb(69, 68, 68);
+    border-radius: 20px;
+    width: 550px;
+}
+.twst{
+    box-shadow: 2px 0 0 #FFA500 ;
+    width: 300px;
+}
+
+.secona-p{
+    color: rgb(250, 91, 91);
+    padding-left: 500px;
+    margin-top: 20px;
+    
+    
+}
+.link{
+    margin-top: 5px;
+    color: hsl(182, 87%, 29%);
+}
+.integr{
+    padding-left: 500px;
+    margin-top: 20px; 
+  
+}
+.integr h2{
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: rgb(105, 98, 98);
+}
+.ulol{
+    padding-left: 500px;
+    margin-top: 20px;
+}
+.last-p{
+    text-align: center;
+    margin-top: 15px;
+    padding: 10px;
+}
